@@ -16,10 +16,10 @@ Step 2: Multiple search categories
 
 Using multiple input tags and/or select dropdowns to set multiple filters and search for UFO sightings based on the following criteria:
 
-date/time
-city
-state
-country
-shape
+* date/time
+* city
+* state
+* country
+* shape
 
 
